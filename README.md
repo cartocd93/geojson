@@ -1,0 +1,1 @@
+Depôt pour mettre à disposition des fichiers GeoJSON exploitables par le composant additionnel IconMap dans Microsoft PowerBI. Ces fichiers ont l'extension .json mais contiennent bien une géométrie définie sur un système de coordonnées WGS84.
